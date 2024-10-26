@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bramdemooij.github.io//sitemap.xml
+Sitemap: https://bramdemooij.github.io/sitemap.xml
